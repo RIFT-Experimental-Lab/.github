@@ -1,7 +1,6 @@
 # R.I.F.T. Experimental Lab
 
-`REALITY IRREGULARITIES AND FLUCTUATIONS TRACKING`  
-`INDEPENDENT LAB · STATUS: ACTIVE`
+`REALITY IRREGULARITIES AND FLUCTUATIONS TRACKING`
 
 > An unlikely idea becomes interesting once it has a method.
 
