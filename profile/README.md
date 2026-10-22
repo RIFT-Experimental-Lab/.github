@@ -25,7 +25,7 @@ Our work is not limited to questions about time. Each experiment begins with a s
 
 Timelinestamp builds a daily digital fingerprint from NIST and NQSN quantum randomness beacons and NOAA solar-wind measurements. It seals each UTC day into a cryptographic hash and a short value that an observer can remember and compare later.
 
-The experiment is inspired by the idea of alternative world lines. It records measurements and reported discrepancies; it does not claim scientific proof of alternative timelines or time travel.
+The experiment is inspired by the idea of alternative world lines. It records measurements and reported discrepancies.
 
 ---
 
