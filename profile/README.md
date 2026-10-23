@@ -26,6 +26,8 @@ Our work is not limited to questions about time. Each experiment begins with a s
 
 An expanded input set is running in shadow mode on the server. It currently includes 23 working streams and areas covering seismic, geomagnetic, sea-level, river, aircraft, and Wikimedia observations. These inputs do not yet change the published daily fingerprint.
 
+Secondary period codes divide a sealed UTC day into six four-hour marks. A week gains one mark per sealed day; a month gains two-character marks for days 1–7, 8–14, 15–21, and 22–end; a year gains one mark per completed month. These codes help narrow which measurement period differs from memory.
+
 The experiment is inspired by the idea of alternative world lines. It records measurements and reported discrepancies.
 
 ---
