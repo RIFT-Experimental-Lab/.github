@@ -20,9 +20,11 @@ Our work is not limited to questions about time. Each experiment begins with a s
 
 ### EXPERIMENT 001 · Timelinestamp
 
-`PHYSICAL EVENT FINGERPRINT · STATUS: ACTIVE`
+`PHYSICAL EVENT FINGERPRINT · STATUS: ACTIVE · V2 SHADOW VALIDATION`
 
-Timelinestamp builds a daily digital fingerprint from NIST and NQSN quantum randomness beacons and NOAA solar-wind measurements. It seals each UTC day into a cryptographic hash and a short value that an observer can remember and compare later.
+[Timelinestamp](https://rift-experimental-lab.github.io/TimeLineStamp/) builds a daily digital fingerprint from NIST and NQSN quantum randomness beacons and NOAA solar-wind measurements. It seals each UTC day into a cryptographic hash and a short value that an observer can remember and compare later.
+
+An expanded input set is running in shadow mode on the server. It currently includes 23 working streams and areas covering seismic, geomagnetic, sea-level, river, aircraft, and Wikimedia observations. These inputs do not yet change the published daily fingerprint.
 
 The experiment is inspired by the idea of alternative world lines. It records measurements and reported discrepancies.
 
