@@ -30,6 +30,8 @@ Secondary period codes divide a sealed UTC day into six four-hour marks. A week 
 
 A day-archive download interface and an Android recovery kit are prepared. The archive service requires an active connection to the collecting server. Published daily hashes and period codes can be restored from Git when replacing the device; raw observations require a separate database backup.
 
+An [Android home screen widget](https://rift-experimental-lab.github.io/TimeLineStamp/#android-widget) displays the latest sealed daily fingerprint, its UTC date, and data completeness. The signed APK is available from the experiment page for Android 8 or newer. Its interface is in English and the latest reading remains available offline.
+
 The experiment is inspired by the idea of alternative world lines. It records measurements and reported discrepancies.
 
 ---
