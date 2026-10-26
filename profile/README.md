@@ -28,6 +28,8 @@ An expanded input set is running in shadow mode on the server. It currently incl
 
 Secondary period codes divide a sealed UTC day into six four-hour marks. A week gains one mark per sealed day; a month gains two-character marks for days 1–7, 8–14, 15–21, and 22–end; a year gains one mark per completed month. These codes help narrow which measurement period differs from memory.
 
+A day-archive download interface and an Android recovery kit are prepared. The archive service requires an active connection to the collecting server. Published daily hashes and period codes can be restored from Git when replacing the device; raw observations require a separate database backup.
+
 The experiment is inspired by the idea of alternative world lines. It records measurements and reported discrepancies.
 
 ---
